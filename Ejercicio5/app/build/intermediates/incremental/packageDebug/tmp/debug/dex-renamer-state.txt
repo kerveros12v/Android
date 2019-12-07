@@ -1,0 +1,4 @@
+#Tue Dec 03 22:14:15 ECT 2019
+base.0=/home/dellubuntu/AndroidStudioProjects/Ejercicio5/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
